@@ -1,6 +1,6 @@
 # Recriando-o-sistema-de-VOTA-O-ONLINE-do-BBB
 
-Para criar um sistema de votação online do BBB, vou dividir o projeto em módulos principais, utilizando tecnologias como Spring Boot para o backend, Angular para o frontend, Apache Kafka para processamento assíncrono e MongoDB como banco de dados. Vamos detalhar os módulos e como eles podem ser implementados:
+Para criar um sistema de votação online do BBB, vou dividir o projeto em módulos principais, utilizando tecnologias como Spring Boot para o backend, Angular para o frontend, Apache Kafka para processamento assíncrono e MongoDB como banco de dados. Vou detalhar os módulos e como eles podem ser implementados:
 
 ### Backend (Spring Boot)
 
@@ -165,4 +165,4 @@ Para criar um sistema de votação online do BBB, vou dividir o projeto em módu
 
 ### Considerações finais
 
-Esse esboço fornece uma estrutura básica para começar a implementação de um sistema de votação online inspirado no BBB, utilizando tecnologias modernas para garantir escalabilidade e eficiência. Para um projeto completo, você precisará expandir e ajustar de acordo com requisitos específicos, como autenticação de usuários, segurança, e outros aspectos de funcionalidade e design.
+Esse esboço fornece uma estrutura básica para começar a implementação de um sistema de votação online inspirado no BBB, utilizando tecnologias modernas para garantir escalabilidade e eficiência. Para um projeto completo, precisaremos expandir e ajustar de acordo com requisitos específicos, como autenticação de usuários, segurança, e outros aspectos de funcionalidade e design.
